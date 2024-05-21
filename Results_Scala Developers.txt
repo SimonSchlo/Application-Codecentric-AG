@@ -1,0 +1,106 @@
+- Name: ['danielkocot']
+  Repos: ['.github', 'acme-api-initiative', 'acme_api_guidelines', 'api-development-tools', 'ap
+          i-ops', 'API-Tools-Playground', 'apicurio-studio', 'apisix', 'asciidoc-blog', 'asciido
+          c2confluence', 'asciidoctor-impressjs', 'asciidoctor-intellij-plugin', 'asciidoctor-vs
+          code-extension', 'asciidoctorj', 'atlasadmin', 'atlassian', 'atlassian-systemd', 'atom
+          -wordcount', 'automagica', 'automate_atlassian_command_line', 'Awesome-Api-Management-
+          Tools', 'awesome-asciidoc', 'awesome-docker', 'awesome-go', 'awesome-groovy', 'awesome
+          -java', 'awesome-resty', 'bruno', 'build-light', 'camel']
+  Programming languages: ['Apex', 'Arduino', 'Batchfile', 'CSS', 'CoffeeScript', 'DTrace', 'Doc
+                          kerfile', 'Elm', 'FreeMarker', 'Go', 'Groovy', 'HTML', 'Java', 'JavaSc
+                          ript', 'Lex', 'Lua', 'Makefile', 'Nginx', 'Open Policy Agent', 'Perl',
+                           'Python', 'Ruby', 'SCSS', 'Scala', 'Shell', 'Tcl', 'Thrift', 'TypeScr
+                          ipt', 'XQuery', 'XSLT']
+
+- Name: ['denniseffing']
+  Repos: ['AES-Implementation', 'aleoncean', 'aleoncean-openhab-binding', 'bitnami-charts', 'bo
+          okinfo-fault-with-timeout', 'chaos-monkey-spring-boot', 'charts', 'component-library-a
+          rena', 'Ext2FileReader', 'fp-ts-advent-of-code-2023', 'GildedRose-Refactoring-Kata', '
+          go-game-of-life', 'hyper', 'hyper-snazzy', 'istio-chaos-demo', 'istio.io', 'jmolecules
+          ', 'kiali-operator', 'microservice-kubernetes', 'minikube', 'mts-booking-order', 'mts-
+          dishes', 'mts-frontend', 'mts-service-mesh', 'my-thai-star', 'oasp4j', 'oidc-client-js
+          ', 'prezto', 'pyhooked', 'smarthome']
+  Programming languages: ['ABAP', 'Ada', 'Assembly', 'Batchfile', 'C', 'C#', 'C++', 'CMake', 'C
+                          OBOL', 'CSS', 'Common Lisp', 'D', 'Dart', 'Dockerfile', 'Elixir', 'Elm
+                          ', 'Erlang', 'F#', 'Fortran', 'Gherkin', 'Go', 'Groovy', 'HTML', 'Hask
+                          ell', 'Java', 'JavaScript', 'Kotlin', 'Lua', 'Makefile', 'NASL', 'NSIS
+                          ', 'PHP', 'PLSQL', 'PLpgSQL', 'Pascal', 'Perl', 'PowerShell', 'Python'
+                          , 'QMake', 'R', 'Raku', 'Ruby', 'Rust', 'SCSS', 'Scala', 'Scheme', 'Sh
+                          ell', 'Smalltalk', 'Smarty', 'Swift', 'TypeScript', 'XSLT', 'Xtend']
+
+- Name: ['F43nd1r']
+  Repos: ['acra-4-docs', 'Acrarium', 'Alkahest', 'androidserviceloader', 'apexcharts-flow', 'Ap
+          pDrawer', 'autodsl', 'aws-cdk-kt', 'bomVersionCatalog', 'cardmarket-api-kotlin', 'chao
+          s-monkey-spring-boot', 'DimBackground', 'discord4j-command-parser', 'DualOSHelper', 'F
+          43dit', 'faendir.com', 'flow', 'gbi-tutorial-slides', 'gohugo-theme-ananke', 'gradle-r
+          elease', 'gradle-version-catalogs-intellij-plugin', 'gradlekeepass', 'grid-layout', 'h
+          adron', 'inline-remover', 'JRAW', 'kit-dark', 'kotlin-compiler-cheerpj', 'kotlinbard',
+           'ksp-example']
+  Programming languages: ['CSS', 'Dockerfile', 'Groovy', 'HTML', 'Java', 'JavaScript', 'Kotlin'
+                          , 'Scala', 'Shell', 'TeX', 'TypeScript']
+
+- Name: ['JonasGroeger']
+  Repos: ['academy-testing', 'acme.sh-inwx', 'advpt-project', 'amos-ss15-proj4', 'AMOS2015', 'a
+          nsible-vault-gpg-client', 'ars', 'awesome-deutschland', 'brieffenster-generator', 'Cha
+          racterStatsClassic', 'cookiecutter-mediawiki-extension', 'ddns-inwx', 'docker-intellij
+          -format', 'dofunao', 'dotfiles', 'dotSync', 'eidas-middleware', 'FAU-OPAC-Suchhund', '
+          flask-uberspace-quickstart', 'gen-gpg-key', 'GPSService', 'hotspot', 'hugo-theme-cactu
+          s', 'infovis', 'intellij-idea-community', 'inwx.de-ddns', 'jetbrains-ppa', 'jooq-test'
+          , 'json-schema-validator', 'KafkaOffsetFinder']
+  Programming languages: ['ApacheConf', 'C', 'C++', 'CMake', 'CSS', 'Dockerfile', 'FreeMarker',
+                           'HTML', 'Java', 'JavaScript', 'Lua', 'MATLAB', 'Makefile', 'PHP', 'Py
+                          thon', 'Scala', 'Shell', 'Stylus', 'TeX', 'Vue']
+
+- Name: ['maiksensi']
+  Repos: ['a-whitelist', 'asciidoctor-reveal.js', 'blog.pytest.org', 'castle', 'chaos-monkey-sp
+          ring-boot', 'chaos-monkey-spring-boot-demo', 'create-react-app', 'dockerfiles', 'fibon
+          acci', 'fizzbuzz-kata-js', 'gameday', 'gatsby-asciidoc-issue-reproducer', 'hackergarte
+          n.github.io', 'helm-charts', 'k6-performance-tests', 'kata-solutions', 'lazy-suspense-
+          cats-demo', 'maikfigura.de', 'minikube', 'nixconfigs', 'nixpkgs', 'pipenv.el', 'ps-sca
+          la-filesearcher', 'pytest', 'quarkus-quickstarts', 'quarkus-tests', 'quarkus-workshops
+          ', 'roman-literals-kata-js', 'ud120-projects', 'workshop-fdm']
+  Programming languages: ['AppleScript', 'Awk', 'Batchfile', 'C', 'C#', 'C++', 'CMake', 'CSS', 
+                          'CUE', 'Common Lisp', 'D', 'DIGITAL Command Language', 'Dockerfile', '
+                          Emacs Lisp', 'Erlang', 'Go', 'HCL', 'HTML', 'Haskell', 'Jasmin', 'Java
+                          ', 'JavaScript', 'Kotlin', 'Lua', 'M4', 'Makefile', 'Meson', 'Mustache
+                          ', 'NSIS', 'Nginx', 'Nim', 'Nix', 'PHP', 'Perl', 'PowerShell', 'Prolog
+                          ', 'PureScript', 'Python', 'QMake', 'R', 'Reason', 'Roff', 'Ruby', 'Ru
+                          st', 'Scala', 'Scheme', 'Shell', 'Slim', 'SmPL', 'Smarty', 'TSQL', 'Ty
+                          peScript', 'VHDL', 'Vim Script', 'XSLT', 'sed']
+
+- Name: ['mkresse']
+  Repos: ['ag-grid', 'contoso-chat', 'DefinitelyTyped', 'generator-jhipster', 'grails-imagetool
+          s', 'klokey', 'mqtt2influx', 'nodemcu-parkinglot-sensor', 'openapi-generator', 'parcel
+          ', 'pm2-githook', 'RestFixture', 'spring-zeebe', 'test-extension', 'workflow-publicati
+          on', 'xwiki-platform']
+  Programming languages: ['Apex', 'Batchfile', 'Bicep', 'Blade', 'CMake', 'CSS', 'CoffeeScript'
+                          , 'Dart', 'Dockerfile', 'Elixir', 'Elm', 'Emacs Lisp', 'GLSL', 'Gherki
+                          n', 'Go', 'Groovy', 'HTML', 'Handlebars', 'Haskell', 'Java', 'JavaScri
+                          pt', 'Jinja', 'Jupyter Notebook', 'Kotlin', 'Lua', 'Makefile', 'Nix', 
+                          'PHP', 'Python', 'Reason', 'Ruby', 'Rust', 'SCSS', 'Scala', 'Shell', '
+                          TypeScript', 'Vue', 'XSLT']
+
+- Name: ['mniehoff']
+  Repos: ['aws-cli', 'blackbricks', 'BusFloatingData', 'cassandra-unit', 'commons-lang', 'dbt-d
+          emo', 'docker-terraform', 'docs.getdbt.com', 'from-jupyter-to-production-workshop', 'g
+          cp-automated-quality-inspection', 'hosted-ossec', 'hosted-ossec-client', 'intro-to-dco
+          s', 'mniehoff.github.io', 'poetry-plugin-pypi-mirror', 'spark-cassandra-playground', '
+          spark-cassandra-workshop', 'spark-streaming-example', 'spark-structured-streaming-exam
+          ple']
+  Programming languages: ['Batchfile', 'C', 'CSS', 'Dockerfile', 'HCL', 'HTML', 'Java', 'JavaSc
+                          ript', 'Jupyter Notebook', 'M', 'Makefile', 'Perl', 'Python', 'Scala',
+                           'Shell', 'Smarty']
+
+- Name: ['reitzig']
+  Repos: ['2011_malijan', '2012_auto-parallel-dynprog_compiler', '2012_auto-parallel-dynprog_pr
+          ototypes', '2015_apportionment', '2016_datasciencecoursera_notes', '2016_hashcode', 'a
+          ctions-asciidoctor', 'advalg15', 'advent-of-code-2020', 'advent-of-kotlin-2018', 'asse
+          rtj-assertions-generator', 'bib2tpl', 'changie', 'container-do', 'courses', 'cpp-swift
+          -mwe', 'datasciencecoursera', 'dh-tools', 'docker-healthchecker', 'dudelve', 'Emote', 
+          'espanso-nice-dev-refs', 'gifstruct', 'helm', 'helm-www', 'hugo-notepadium', 'issue-re
+          production', 'JenkinsPipelineUnit', 'json-to-pogo-mwe', 'kollektist']
+  Programming languages: ['Batchfile', 'C', 'C++', 'CSS', 'Crystal', 'Dockerfile', 'Gherkin', '
+                          Go', 'Groovy', 'HTML', 'Java', 'JavaScript', 'Kotlin', 'Makefile', 'PH
+                          P', 'Python', 'R', 'Ruby', 'SCSS', 'Sass', 'Scala', 'Shell', 'Swift', 
+                          'TeX']
+
