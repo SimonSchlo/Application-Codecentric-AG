@@ -1,6 +1,6 @@
 # Application-Codecentric-AG
-Programming task
+Programming task as part of the application for the position Junior IT Consultant.
 
-The whole code is implemented in the file dev_search.py.
 
-For the task I used Python.
+The whole code is implemented and described in the Python-file dev_search.py.
+
